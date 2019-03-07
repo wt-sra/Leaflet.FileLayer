@@ -9,11 +9,11 @@
   ],
   "main": "src/leaflet.filelayer.js",
   "bugs": {
-    "url": "https://github.com/makinacorpus/Leaflet.FileLayer/issues"
+    "url": "https://github.com/wt-sra/Leaflet.FileLayer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/makinacorpus/Leaflet.FileLayer.git"
+    "url": "git://github.com/wt-sra/Leaflet.FileLayer.git"
   },
   "license": "MIT",
   "scripts": {
