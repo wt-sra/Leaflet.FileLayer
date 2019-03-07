@@ -1,9 +1,9 @@
 {
-  "name": "leaflet-filelayer",
+  "name": "@wt-sra/leaflet-filelayer",
   "description": "Loads local files (GeoJSON, GPX, KML) into the map using the HTML5 FileReader API",
   "main": "leaflet.filelayer.js",
   "authors": [
-    "makinacorpus"
+    "wt-sra"
   ],
   "license": "MIT",
   "keywords": [
@@ -11,7 +11,7 @@
     "GIS",
     "HTML5"
   ],
-  "homepage": "https://github.com/makinacorpus/Leaflet.FileLayer",
+  "homepage": "https://github.com/wt-sra/Leaflet.FileLayer",
   "moduleType": [
     "amd",
     "es6",
